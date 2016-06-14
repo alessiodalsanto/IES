@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<module>
+	<id>com.mycompany.mymodule</id>
+	<name>GoogleMapsv2</name>
+	<description></description>
+	<license>license.html</license>
+	<documentation>index.html</documentation>
+	<version>1.0.0.0</version>
+	<requiredignitionversion>7.7.0</requiredignitionversion>
+	<requiredframeworkversion>6</requiredframeworkversion>
+	
+
+
+
+		<!-- Load in our jars for each scope -->
+		<jar scope="D">googlemapsv2-designer.jar.pack.gz</jar>
+		<jar scope="DC">googlemapsv2-client.jar.pack.gz</jar>
+
+
+		<!-- Tell the Gateway and/or Designer where to find the hooks -->
+		<hook scope="D">com.mycompany.mymodule.designer.DesignerHook</hook>
+
+</module>
+

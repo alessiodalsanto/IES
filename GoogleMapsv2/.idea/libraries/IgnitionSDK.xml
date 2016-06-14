@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="IgnitionSDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/alarm-notification-common-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/alarm-notification-designer-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/alarm-notification-gateway-api-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/client-api-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/designer-api-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/driver-api-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/gateway-api-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/ignition-common-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/sfc-client-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/sfc-common-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/sfc-designer-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/sfc-gateway-api-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/vision-client-api-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/vision-common-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/vision-designer-api-7.7.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/gateway-api-7.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../IgnitionSDK/ignition-common-7.7.8.jar!/" />
+    </SOURCES>
+  </library>
+</component>
